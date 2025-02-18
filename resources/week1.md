@@ -1,6 +1,6 @@
 # Week 1 - Resurser
 
-[Back to main page :house:](https://github.com/aleylani/machine-learning)
+[Back to main page :house:](https://github.com/aleylani/machine-learning-ai24)
 
 # Introduktion
 
