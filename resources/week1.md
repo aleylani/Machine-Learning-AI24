@@ -17,6 +17,8 @@
 
 - [Introduction to Statistical Learning](https://www.statlearning.com/)
 
+Download the Python version of the book! It's also completely free.
+
 - Chapter 1: Introduction
 - Chapter 2: Statistical Learning
 - Chapter 3: Linear Regression
