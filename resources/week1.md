@@ -17,4 +17,6 @@
 
 - [Introduction to Statistical Learning](https://www.statlearning.com/)
 
-- [Chapter 1: Linear Methods for Regression](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
+- Chapter 1: Introduction
+- Chapter 2: Statistical Learning
+- Chapter 3: Linear Regression
