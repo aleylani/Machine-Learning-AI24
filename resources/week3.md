@@ -10,7 +10,7 @@
 
 # Readings
 
-- [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
+- [Confusion Matrix](https://www.geeksforgeeks.org/confusion-matrix-machine-learning/)
 - [Feature scaling](https://www.atoti.io/articles/when-to-perform-a-feature-scaling/)
 - [Data leakage in scaling](https://medium.com/geekculture/preventing-data-leakage-in-machine-learning-a-guide-51445af9fbaf)
 
