@@ -13,6 +13,7 @@
 - [Decision Trees Regression & Classification](https://keylabs.ai/blog/decision-trees-how-they-work-and-practical-examples/)
 - [Random Forest](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
 - [GridSearchCV with Sklearn](https://pieriantraining.com/gridsearchcv-with-scikit-learn-and-python/)
+- [Decision Tree Boundary Visualization](https://i.sstatic.net/FgdfC.jpg)
 
 - [Ensamble Models](https://builtin.com/machine-learning/ensemble-model)
 - [Hyperparameter Tuning](https://www.jeremyjordan.me/hyperparameter-tuning/)
